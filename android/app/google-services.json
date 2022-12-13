@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943743813876",
+    "project_id": "tikrr-39fa7",
+    "storage_bucket": "tikrr-39fa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943743813876:android:190fda85dd7876bad0b6a1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943743813876-56tku61jh1bcaggsmfpt020j1lo2krqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWGrKZ8MrF22NivNJ5qrk4k0KP8MCP4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943743813876-56tku61jh1bcaggsmfpt020j1lo2krqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
